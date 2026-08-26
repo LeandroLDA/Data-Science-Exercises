@@ -25,9 +25,6 @@ To practice and master the fundamental tools of a Data Scientist. These isolated
 - **Statistical Inference & Experimental Design:** Summary statistics, sampling techniques (simple, stratified, cluster, bootstrap), hypothesis testing (t-tests, ANOVA, Chi-square, proportion tests), and experimental design fundamentals.
 - **Statistical Modeling & Machine Learning:** Linear and logistic regression with **statsmodels**, along with Supervised Learning with **Scikit-Learn** (classification, regression, model evaluation metrics, cross-validation, and hyperparameter tuning).
 
-### 🛠️ How it's organized
-Each folder corresponds to a specific course or module from the DataCamp track (e.g., `Exploratory_Data_Analysis_FitTrack`, `Joining_Data_Pandas`, `Supervised_Learning_Scikit_Learn`, etc.).
-
 ---
 
 <a name="português"></a>
@@ -43,8 +40,5 @@ Praticar e dominar as ferramentas fundamentais de um Cientista de Dados. Estes e
 - **Visualização de Dados:** Estruturação visual, subplots e customização gráfica usando **Matplotlib** e **Seaborn** (gráficos relacionais, categóricos, distribuições e mapas de calor).
 - **Inferência Estatística e Planejamento Experimental:** Estatística descritiva, técnicas de amostragem (simples, estratificada, bootstrap), testes de hipóteses (testes t, ANOVA, qui-quadrado, testes de proporção) e fundamentos de projetos experimentais.
 - **Modelagem Estatística e Machine Learning:** Regressão linear e logística com **statsmodels**, além de Aprendizado Supervisionado com **Scikit-Learn** (classificação, regressão, métricas de avaliação, validação cruzada e ajuste de hiperparâmetros).
-
-### 🛠️ Organização
-Cada pasta corresponde a um curso ou módulo específico da trilha da DataCamp (ex: `Analise_Exploratoria_FitTrack`, `Juncao_de_Dados_Pandas`, `Aprendizado_Supervisionado_Scikit_Learn`, etc.).
 
 ---
